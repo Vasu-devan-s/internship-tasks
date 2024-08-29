@@ -1,0 +1,47 @@
+.a{
+    display: flex;
+    gap: 5%;
+    margin-left: 60%;
+    color: gray;
+}
+.b{
+    font-size: 60px;
+    font-family: "Raleway", sans-serif;
+    line-height: 60px;
+    color: black;
+}
+.c{
+    margin-top: -35%;
+    margin-left: 55%;
+}
+.d{
+    margin-right: 50%;
+}
+.e{
+    margin: 20px 10%;
+}
+.f{
+   color:gray;
+   margin-top: -20px;
+}
+.g{
+    margin-top: 150px;
+}
+.btn{
+    padding: 10px 30px;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    border-radius: 50px;
+    color: #3498db;
+    border: 2px solid #3498db;
+    background-color: white;
+}
+.bt{
+    border-radius: 30px;
+    padding: 25px 5px;
+    background-color: #3498db;
+    color: white;
+    border: 2px solid #3498db;
+}
